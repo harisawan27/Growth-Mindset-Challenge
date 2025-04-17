@@ -6,7 +6,7 @@ import seaborn as sns
 import io
 
 # App Title & Description
-st.title("Haris's Data Assistant 🧠")
+st.title("Haris' Data Assistant 🧠")
 st.write("""
 Upload a dataset, clean it smartly, and explore visual insights.
 Choose what to keep, fix missing data, and export your cleaned work easily.
